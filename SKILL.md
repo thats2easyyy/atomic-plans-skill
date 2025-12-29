@@ -10,8 +10,6 @@ description: |
   Triggers: "use the planning skill", "update the plan", "what's the current plan state",
   "create a plan for", "review plans in [folder]".
 
-  Default location: /Users/tylernishida/Documents/obsidian/tyler
-  User may specify: /Users/tylernishida/Documents/obsidian/tyler/Work/Proj-Evals or other paths.
 ---
 
 # Atomic Plans
